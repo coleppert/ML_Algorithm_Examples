@@ -1,2 +1,1 @@
-This repository contains a number of machine learning algorithms implemented on sample data to demonstrate knowledge. 
-These are just basic implementations of the algorithms with pre-cleaned data and just meant to show competecy with the algorithms themselves.
+This repository contains basic implementations of machine learning algorithms with sample data to demonstrate knowledge. Some of the code has been sourced from exercises from Coursera courses on Machine Learning that have helped develop my skills
